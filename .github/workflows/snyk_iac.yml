@@ -3,7 +3,7 @@ name: Test Custom Rules
 on:
   push:
     branches:
-      - 'main'     # main
+      - 'main'
 
 jobs:
   unit_test:
